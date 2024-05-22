@@ -1,0 +1,28 @@
+input.ng-touched.ng-invalid {
+  border-color: red;
+}
+
+input.ng-touched.ng-valid {
+  border-color: green;
+}
+p{
+  margin: 0;
+}
+.form-class{
+  border-radius: 15px;
+  background-color: whitesmoke;
+  padding: 10px;
+}
+input{
+  border: 2px solid black;
+  width: 220px;
+  height: 35px;
+  border-radius: 5px;
+}
+button{
+  width: 70px;
+  height: 35px;
+  background-color: white;
+  border: 2px solid grey;
+  border-radius: 5px;
+}
